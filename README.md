@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, It's Elias Ali Afridi</h1>
-<h3 align="center">Passionate developer with a hunger for solving problems and building robust, scalable web applications. I enjoy working on challenging projects that help me grow and advance with technology.</h3>
+### Hi there 👋, It's Elias Ali Afridi
+#### Backend Developer
+Passionate developer with a hunger for solving problems and building robust, scalable web applications. I enjoy working on challenging projects that help me grow and advance with technology.
 
-- 🔭 I’m currently working on **a Django Project**
+Skills: Python/ Django / Git / Postman
 
-- 🌱 I’m currently learning **Django**
+- 🔭 I’m currently working on a Django Project. 
+- 🌱 I’m currently learning Django 
+- 👯 I’m looking to collaborate on Django. 
+- 💬 Ask me about Backend Development. 
+- 📫 How to reach me: Email, Skype, Facebook 
 
-- 👯 I’m looking to collaborate on **Django**
-
-- 💬 Ask me about **Backend Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
