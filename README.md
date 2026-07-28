@@ -3,9 +3,9 @@
 #### Backend Developer
 Passionate developer with a hunger for solving problems and building robust, scalable web applications. I enjoy working on challenging projects that help me grow and advance with technology.
 
-- 🔭 I’m currently working on a Django Project. 
-- 🌱 I’m currently learning Django 
-- 👯 I’m looking to collaborate on Django. 
+- 🔭 I’m currently working on a Machine Learning Project. 
+- 🌱 I’m currently learning Deep learning.
+- 👯 I’m looking to collaborate on Machine Learning Project. 
 - 💬 Ask me about Backend Development. 
 - 📫 How to reach me: Email, Skype, Facebook 
 
